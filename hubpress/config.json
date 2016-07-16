@@ -4,7 +4,13 @@
     "repositoryName": "cohenaa.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "aaronb94+blog@gmail.com",
+    "twitter": "acohen206",
+    "github": ""
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
