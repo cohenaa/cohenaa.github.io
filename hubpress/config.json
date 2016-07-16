@@ -4,7 +4,10 @@
     "repositoryName": "cohenaa.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Deep Analysis",
+    "description": "Thoughts on Literature and Life"
+  },
   "socialnetwork": {
     "email": "aaronb94+blog@gmail.com",
     "twitter": "acohen206",
